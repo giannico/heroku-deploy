@@ -1,0 +1,38 @@
+# OS
+# ======================
+.DS_Store
+Thumbs.db
+
+# Client/Bower
+# ======================
+bower_components
+vendor
+
+# Server
+# ======================
+node_modules/
+
+# Envs
+# ======================
+dev.env
+test.env
+heroku.json
+
+# General
+# ======================
+.tmp/
+dist/
+build/
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.tmp
+*.bak
+*.swp
+
+# Sublime editor
+# ==============
+*.sublime-workspace

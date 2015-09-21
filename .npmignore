@@ -1,0 +1,14 @@
+# Any hidden files
+**/.*
+
+# Build related stuff
+/demo
+/test
+gulpfile.js
+gulp.config.js
+
+# Package managers
+bower.json
+
+# IDE files
+*sublime*

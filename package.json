@@ -1,0 +1,32 @@
+{
+  "name": "heroku-deploy",
+  "version": "0.1.0",
+  "description": "A simple utility for deploying a .tar.gz to Heroku via the Heroku Platform API.",
+  "keywords": [
+    "tiny-lr",
+    "browser-sync",
+    "livereload"
+  ],
+  "homepage": "http://github.com/giannico/heroku-deploy",
+  "bugs": {
+    "url": "https://github.com/giannico/heroku-deploy/issues",
+    "email": "giannico@gmail.com"
+  },
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Andre Giannico",
+      "email": "giannico@gmail.com"
+    }
+  ],
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giannico/heroku-deploy/heroku-deploy.git"
+  },
+  "dependencies": {
+    "bluebird": "^2.10.0",
+    "request": "^2.62.0"
+  },
+  "devDependencies": {}
+}
